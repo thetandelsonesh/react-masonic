@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "curls": "^3.0.60",
+    "fetch": "^1.1.0",
+    "masonic": "^1.0.21",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
